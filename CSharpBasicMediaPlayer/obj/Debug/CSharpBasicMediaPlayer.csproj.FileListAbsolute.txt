@@ -1,0 +1,14 @@
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\bin\Debug\CSharpBasicMediaPlayer.exe.config
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\bin\Debug\CSharpBasicMediaPlayer.exe
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\bin\Debug\CSharpBasicMediaPlayer.pdb
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\CSharpBasicMediaPlayer.csprojResolveAssemblyReference.cache
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\CSharpBasicMediaPlayer.Form1.resources
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\CSharpBasicMediaPlayer.Properties.Resources.resources
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\CSharpBasicMediaPlayer.csproj.GenerateResource.Cache
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\CSharpBasicMediaPlayer.exe
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\CSharpBasicMediaPlayer.pdb
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\jreplogle\documents\visual studio 2015\Projects\CSharpBasicMediaPlayer\CSharpBasicMediaPlayer\obj\Debug\CSharpBasicMediaPlayer.csproj.ResolveComReference.cache
